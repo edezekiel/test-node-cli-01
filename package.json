@@ -1,0 +1,18 @@
+{
+  "name": "test-hello-01",
+  "version": "1.2.0",
+  "bin": {
+    "hello": "./index.js",
+    "sayName": "./sayName.js",
+    "tip": "./tip.js",
+    "today": "./today.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
